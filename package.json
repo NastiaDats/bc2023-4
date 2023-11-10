@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2"
+  },
+  "name": "bc2023-4",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
